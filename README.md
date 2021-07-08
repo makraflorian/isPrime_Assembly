@@ -1,3 +1,3 @@
-# isPrime_Assembly
+# Is Prime - Assembly kötprog
 
-# If a number is prime return 1, else 0 
+## If a number is prime return 1, else 0 
